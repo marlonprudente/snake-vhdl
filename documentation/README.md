@@ -1,2 +1,7 @@
-# Documentação
-Nesta pasta devem estar os documentos (textos, fotos, etc.) utilizados para a documentação do projeto.
+# DocumentaÃ§Ã£o
+Nesta pasta devem estar os documentos (textos, fotos, etc.) utilizados para a documentaÃ§Ã£o do projeto.
+
+#Equipe
+Insira aqui o nome e e-mail
+
+* Marlon Prudente <marlonoliveira at alunos.utfpr.edu.br>
